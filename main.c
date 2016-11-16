@@ -1,6 +1,6 @@
 # file main.c
 void main(void)
   {
-    print("Bonjour world!");
+    print("What world!");
     for(,,);
   }
